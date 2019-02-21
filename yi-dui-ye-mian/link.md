@@ -4,9 +4,9 @@
 
 ### 领域服
 
-topmc.pw:19132
+s.topmc.pw:19132
 
 ### PocketMine服
 
-120.78.76.68:19132
+s2.topmc.pw:19132
 
