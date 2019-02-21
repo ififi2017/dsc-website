@@ -15,5 +15,5 @@
 * [Telegram](https://t.me/dscmc)
 * [Skype](https://join.skype.com/MOPMTPw1m9FE)
 * [Discord](https://discord.gg/FY8FJ8G)
-* [QQ Group](https://jq.qq.com/?_wv=1027&k=5PGarF1)
+* [QQ(不推荐)](https://jq.qq.com/?k=5PGarF1)
 
