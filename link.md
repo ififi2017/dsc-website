@@ -12,5 +12,7 @@ topmc.pw:19132
 
 ## 下面是链接
 
-[Telegram](https://t.me/dscmc) [Skype](https://join.skype.com/MOPMTPw1m9FE) [Discord](https://discord.gg/FY8FJ8G)
+- [Telegram](https://t.me/dscmc)
+- [Skype](https://join.skype.com/MOPMTPw1m9FE)
+- [Discord](https://discord.gg/FY8FJ8G)
 
