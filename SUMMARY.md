@@ -4,11 +4,11 @@
 
 ## 一堆页面
 
-* [简介](yi-dui-ye-mian/readme.md)
-* [服务器特色](yi-dui-ye-mian/1.md)
-* [服务器地址](yi-dui-ye-mian/link.md)
-* [MarkDown test](yi-dui-ye-mian/test1.md)
-* [口胡](yi-dui-ye-mian/test.md)
+* [简介](a_lot_md/readme.md)
+* [服务器特色](a_lot_md/1.md)
+* [服务器地址](a_lot_md/link.md)
+* [MarkDown test](a_lot_md/test1.md)
+* [口胡](a_lot_md/test.md)
 
 ## 加入我们
 
