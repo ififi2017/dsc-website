@@ -1,2 +1,2 @@
-* [Test](untitled.md)
+* [Test](test.md)
 * [README](README.md)
