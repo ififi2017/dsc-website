@@ -38,7 +38,9 @@ description: 标签：奇葩地主  上天入地建筑  JK飞船 qupb空岛
 
 ### 高清版本
 
-百度网盘：
+百度网盘：https://pan.baidu.com/s/1QyV1wXbAJghtvLPWL0uvqQ 提取码: hx3y
 
 ## 存档下载
+
+百度网盘：[https://pan.baidu.com/s/1iiRIWyoDnR98R-VaxI5j\_w](https://pan.baidu.com/s/1iiRIWyoDnR98R-VaxI5j_w) 提取码: j125
 
