@@ -10,6 +10,7 @@
 
 ## 历代周目
 
+* [新周目二（沙漠）](li-dai-zhou-mu/xin-zhou-mu-er-sha-mo.md)
 * [新周目一（城市）](li-dai-zhou-mu/xin-zhou-mu-yi-cheng-shi.md)
 * [新旧分隔线](li-dai-zhou-mu/xin-jiu-fen-ge-xian.md)
 
