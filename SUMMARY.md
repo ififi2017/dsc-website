@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [引言](1.md)
-* [测试](test.md)
+* [简介](README.md)
+* [服务器特色](1.md)
+* [口胡](test.md)
 * [MarkDown test](test1.md)
 
 ## join us
