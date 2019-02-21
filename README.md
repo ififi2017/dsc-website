@@ -12,7 +12,7 @@
 
 {% page-ref page="server/link.md" %}
 
-### 老玩家？不妨回顾一下以前的老地图。
+### 老玩家？不妨回顾一下老地图。
 
 {% page-ref page="history/new1.md" %}
 
