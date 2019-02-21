@@ -2,8 +2,6 @@
 
 * [引言](README.md)
 * [测试](test.md)
-
-## Join us
-
-* [Telegram](https://t.me/dscme)
+* [语言](LANGS.md)
+* [链接](LINK.md)
 
