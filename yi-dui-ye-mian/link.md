@@ -1,12 +1,28 @@
-# 服务器地址
+# 服务器列表
 
 ## 服务器地址:
 
-### 领域服
+### 原版（JAVA Edition）
 
-s.topmc.pw:19132
+敬请期待
 
-### PocketMine服
+### 基岩版（Bedrock Edition）
 
-s2.topmc.pw:19132
+{% hint style="info" %}
+端口默认19132
+{% endhint %}
+
+#### 原版领域服
+
+纯净生存
+
+`s.topmc.pw`
+
+#### PocketMine服（实验性）
+
+默认创造
+
+`s2.topmc.pw`
+
+
 

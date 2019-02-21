@@ -1,12 +1,12 @@
 # Table of contents
 
-* [前言](README.md)
+* [主页](README.md)
 
-## 一堆页面
+## 服务器
 
 * [简介](yi-dui-ye-mian/a_lot_md.md)
 * [服务器特色](yi-dui-ye-mian/1.md)
-* [服务器地址](yi-dui-ye-mian/link.md)
+* [服务器列表](yi-dui-ye-mian/link.md)
 
 ## 历代周目
 
