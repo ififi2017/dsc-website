@@ -4,9 +4,11 @@
 * [服务器特色](1.md)
 * [口胡](test.md)
 * [MarkDown test](test1.md)
-* [一堆加群链接](LINK.md)
+* [一堆加群链接](link.md)
 
 ## join us
 
+* [Skype](https://join.skype.com/MOPMTPw1m9FE)
+* [Discord](https://discord.gg/FY8FJ8G)
 * [fi\_niaR](https://rainif.com)
 
