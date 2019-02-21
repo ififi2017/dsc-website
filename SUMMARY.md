@@ -16,7 +16,3 @@
 * [Skype](https://join.skype.com/MOPMTPw1m9FE)
 * [Discord](https://discord.gg/FY8FJ8G)
 
-## IFIFIFI 自己
-
-* [fi\_niaR](https://rainif.com)
-
