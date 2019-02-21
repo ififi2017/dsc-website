@@ -8,6 +8,5 @@
 
 ## join us
 
-* [Telegram](https://t.me/dscmc)
 * [fi\_niaR](https://rainif.com)
 
