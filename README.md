@@ -4,6 +4,7 @@
 ## 获得测试权力
 
 Becoming a tester is a fairly straight forward process:
+
 成为测试人员是一个相当直接的过程：
 
 ```text
@@ -23,5 +24,5 @@ Once you're tested enough, save the world:
 
 一旦你进行了足够的测试，拯救世界：
 
-\`\`\` // Ain't no code for that yet, sorry echo 'You got to trust me on this, I tested the world'
+``` // Ain't no code for that yet, sorry echo 'You got to trust me on this, I tested the world'
 
