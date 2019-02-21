@@ -20,5 +20,4 @@ Once you're tested enough, save the world:
 一旦你进行了足够的测试，拯救世界：
 
 \`\`\` // Ain't no code for that yet, sorry echo 'You got to trust me on this, I tested the world'
-\`\`\` // 不是没有代码，抱歉回应'你必须相信我，我测试了世界'
 
