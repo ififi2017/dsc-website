@@ -7,8 +7,6 @@
 * [简介](yi-dui-ye-mian/a_lot_md.md)
 * [服务器特色](yi-dui-ye-mian/1.md)
 * [服务器地址](yi-dui-ye-mian/link.md)
-* [MarkDown test](yi-dui-ye-mian/test1.md)
-* [口胡](yi-dui-ye-mian/test.md)
 
 ## 历代周目
 
