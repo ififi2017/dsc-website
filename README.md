@@ -6,6 +6,7 @@ Becoming a tester is a fairly straight forward process:
 
 ```
 $ give me test-powers
+$ yum remove qupb
 ```
 
 {% hint style="info" %}
