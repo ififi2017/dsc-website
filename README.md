@@ -1,23 +1,19 @@
 # Initial page
 
-## Getting Super Powers
+## Getting Test Powers
 
-Becoming a super hero is a fairly straight forward process:
+Becoming a tester is a fairly straight forward process:
 
 ```
-$ give me super-powers
+$ give me test-powers
 ```
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ Test-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-Once you're strong enough, save the world:
+Once you're tested enough, save the world:
 
 ```
 // Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+echo 'You got to trust me on this, I tested the world'
