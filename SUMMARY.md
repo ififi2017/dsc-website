@@ -4,16 +4,16 @@
 
 ## 服务器
 
-* [简介](yi-dui-ye-mian/a_lot_md.md)
-* [服务器特色](yi-dui-ye-mian/1.md)
-* [服务器列表](yi-dui-ye-mian/link.md)
+* [简介](server/a_lot_md.md)
+* [服务器特色](server/1.md)
+* [服务器列表](server/link.md)
 
 ## 历代周目
 
-* [新周目三（海岛）](li-dai-zhou-mu/xin-zhou-mu-san-hai-dao.md)
-* [新周目二（沙漠）](li-dai-zhou-mu/xin-zhou-mu-er-sha-mo.md)
-* [新周目一（城市）](li-dai-zhou-mu/xin-zhou-mu-yi-cheng-shi.md)
-* [新旧分隔线](li-dai-zhou-mu/xin-jiu-fen-ge-xian.md)
+* [新周目三（海岛）](history/xin-zhou-mu-san-hai-dao.md)
+* [新周目二（沙漠）](history/xin-zhou-mu-er-sha-mo.md)
+* [新周目一（城市）](history/xin-zhou-mu-yi-cheng-shi.md)
+* [新旧分隔线](history/xin-jiu-fen-ge-xian.md)
 
 ## 加入我们
 
