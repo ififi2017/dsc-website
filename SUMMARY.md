@@ -8,6 +8,7 @@
 
 ## join us
 
+* [Telegram](https://t.me/dscme)
 * [Skype](https://join.skype.com/MOPMTPw1m9FE)
 * [Discord](https://discord.gg/FY8FJ8G)
 * [fi\_niaR](https://rainif.com)
