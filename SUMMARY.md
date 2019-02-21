@@ -4,8 +4,8 @@
 
 ## 服务器
 
-* [简介](server/a_lot_md.md)
-* [服务器特色](server/1.md)
+* [简介](server/introduction.md)
+* [服务器特色](server/server-features.md)
 * [服务器列表](server/link.md)
 
 ## 历代周目
