@@ -3,6 +3,6 @@
 ## 网站建设中
 
 ```bash
-yum install -y IFIFIFI
+yum install -y qupb IFIFIFI kdgwhsk
 ```
 
