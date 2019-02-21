@@ -7,6 +7,4 @@
 ## join us
 
 * [Telegram](https://t.me/dscmc)
-* [语言](yu-yan.md)
-* [链接](lian-jie.md)
-
+* [fi_niaR](https://rainif.com)
