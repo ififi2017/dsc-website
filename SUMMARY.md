@@ -10,10 +10,10 @@
 
 ## 历代周目
 
-* [新周目三（海岛）](history/xin-zhou-mu-san-hai-dao.md)
-* [新周目二（沙漠）](history/xin-zhou-mu-er-sha-mo.md)
-* [新周目一（城市）](history/xin-zhou-mu-yi-cheng-shi.md)
-* [新旧分隔线](history/xin-jiu-fen-ge-xian.md)
+* [新周目三（海岛）](history/new3.md)
+* [新周目二（沙漠）](history/new2.md)
+* [新周目一（城市）](history/new1.md)
+* [新旧分隔线](history/separation-line.md)
 
 ## 加入我们
 
