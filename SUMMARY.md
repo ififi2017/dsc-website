@@ -1,12 +1,14 @@
-# 内容列表
+# Table of contents
+
+* [前言](README.md)
 
 ## 一堆页面
 
-* [简介](README.md)
-* [服务器特色](1.md)
-* [服务器地址](link.md)
-* [MarkDown test](test1.md)
-* [口胡](test.md)
+* [简介](yi-dui-ye-mian/readme.md)
+* [服务器特色](yi-dui-ye-mian/1.md)
+* [服务器地址](yi-dui-ye-mian/link.md)
+* [MarkDown test](yi-dui-ye-mian/test1.md)
+* [口胡](yi-dui-ye-mian/test.md)
 
 ## 加入我们
 
