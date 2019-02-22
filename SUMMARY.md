@@ -9,6 +9,8 @@
 
 ## 历代周目
 
+* [新周目五（城市）](history/xin-zhou-mu-wu-cheng-shi.md)
+* [新周目四（平原）](history/xin-zhou-mu-si-ping-yuan.md)
 * [新周目三（海岛）](history/new3.md)
 * [新周目二（沙漠）](history/new2.md)
 * [新周目一（城市）](history/new1.md)
