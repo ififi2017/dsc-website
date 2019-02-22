@@ -12,5 +12,7 @@
 
 ## 服务器风景
 
-![DSC&#x670D;&#x52A1;&#x5668;&#x65B0;&#x7248;&#x4E00;&#x5468;&#x76EE;&#x4E00;&#x666F;](../.gitbook/assets/qq-tu-pian-20190221194704.png)
+![DSC&#x670D;&#x52A1;&#x5668;&#x65B0;&#x5468;&#x76EE;&#x4E00;](../.gitbook/assets/qq-tu-pian-20190221194704.png)
+
+![DSC&#x670D;&#x52A1;&#x5668;&#x65B0;&#x5468;&#x76EE;&#x4E94;](../.gitbook/assets/minecraft-2019_2_22-20_12_21.png)
 
