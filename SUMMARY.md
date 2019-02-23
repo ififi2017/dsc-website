@@ -9,7 +9,7 @@
 
 ## 历代周目
 
-* [新周目六（正在建设中）](history/xin-zhou-mu-liu-zheng-zai-jian-she-zhong.md)
+* [新周目六（正在建设中）](history/new6.md)
 * [新周目五（城市）](history/new5.md)
 * [新周目四（平原）](history/new4.md)
 * [新周目三（海岛）](history/new3.md)
