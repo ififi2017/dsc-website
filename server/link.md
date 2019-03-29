@@ -2,7 +2,15 @@
 
 ## 原版（JAVA Edition）
 
-敬请期待
+IndustrialCraft 2 + Biomes O' Plenty + BuildCraft 1.12.2 生存服务器
+
+{% hint style="info" %}
+端口默认25565
+{% endhint %}
+
+```text
+IP: s.topmc.pw
+```
 
 ## 基岩版（Bedrock Edition）
 
@@ -14,13 +22,13 @@
 
 纯净生存
 
-`s.topmc.pw`
+`IP: s.topmc.pw`
 
 ### PocketMine服（实验性）
 
 默认创造
 
-`s2.topmc.pw`
+`IP: s2.topmc.pw`
 
 
 
