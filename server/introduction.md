@@ -6,7 +6,7 @@
 
 ## 服主介绍
 
- 梦影之都服务器服主、创立者、灵魂人物是：KanModel（Xbox ID： kdgwhsk 中文名：莫多） 
+ 梦影之都服务器服主、创立者、灵魂人物是：KanModel（Xbox ID： kgdwhsk 中文名：莫多） 
 
 ![KanModel](../.gitbook/assets/qq-tu-pian-20190221224333.jpg)
 
