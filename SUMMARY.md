@@ -10,7 +10,7 @@
 
 ## 历代周目 <a id="history"></a>
 
-* [新周目六（正在建设中）](history/new6.md)
+* [新周目六（社会主义新农村）](history/new6.md)
 * [新周目五（城市）](history/new5.md)
 * [新周目四（平原）](history/new4.md)
 * [新周目三（海岛）](history/new3.md)
