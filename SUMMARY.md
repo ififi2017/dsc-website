@@ -7,7 +7,7 @@
 * [简介](server/introduction.md)
 * [服务器列表](server/link.md)
 * [赞助列表](server/sponsor-list.md)
-* [支出一览](server/zhi-chu-yi-lan.md)
+* [支出一览](server/expenditure-list.md)
 
 ## 历代周目 <a id="history"></a>
 
