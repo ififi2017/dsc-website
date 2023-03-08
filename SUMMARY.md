@@ -19,9 +19,3 @@
 * [新周目二（沙漠）](history/new2.md)
 * [新周目一（城市）](history/new1.md)
 * [新旧分隔线](history/separation-line.md)
-
-## 加入我们 <a href="#join-us" id="join-us"></a>
-
-* [Skype](https://join.skype.com/MOPMTPw1m9FE)
-* [Discord](https://discord.gg/FY8FJ8G)
-* [QQ](https://jq.qq.com/?k=5PGarF1)
