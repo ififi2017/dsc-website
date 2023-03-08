@@ -1,18 +1,23 @@
+---
+description: 'Version: 1.19.x'
+---
+
 # 服务器列表
 
 ## 基岩版（Bedrock Edition）
 
-{% hint style="info" %}
-端口默认19132
-{% endhint %}
+DSC 10th Anniversary Server (Preview)
 
-### 原版领域服
+Type: Bedrock Edition
 
-#### 第一周目（经典服务器）
+Chengdu IP: [s1.rainif.com](http://s1.rainif.com/)
 
-IP：s.topmc.pw
+Port: 19132
 
-#### 第七周目（基于1.12.0版本新建地图，有新版村庄）
 
-IP：s2.topmc.pw
 
+Hongkong IP: [s2.rainif.com](http://s2.rainif.com/)
+
+Port: 19132 （fi\_niaR Home - Chengdu Tencent Cloud - Hongkong Alibaba Cloud）
+
+Port2: 19133（fi\_niaR Home - Hongkong Alibaba Cloud）
