@@ -1,23 +1,33 @@
 ---
-description: 'Version: 1.19.x'
+description: DSC 11th Anniversary Server
 ---
 
 # 服务器列表
 
 ## 基岩版（Bedrock Edition）
 
-DSC 10th Anniversary Server (Preview)
+成都服务器: [sky.rainif.com](https://sky.rainif.com)
 
-Type: Bedrock Edition
+香港服务器: [lxc.rainif.com](https://lxc.rainif.com)
 
-Chengdu IP: [s1.rainif.com](http://s1.rainif.com/)
+端口：19132
 
-Port: 19132
+版本：1.21.X
 
 
 
-Hongkong IP: [s2.rainif.com](http://s2.rainif.com/)
+## Java 版（GT New Horizon 2.7.2）
 
-Port: 19132 （fi\_niaR Home - Chengdu Tencent Cloud - Hongkong Alibaba Cloud）
+> 建议使用 MultiMC 作为启动器：[https://multimc.org/](https://multimc.org/)
 
-Port2: 19133（fi\_niaR Home - Hongkong Alibaba Cloud）
+整合包安装教程：[https://gtnh.huijiwiki.com/p/371](https://gtnh.huijiwiki.com/p/371)
+
+整合包下载链接：[https://downloads.gtnewhorizons.com/Multi\_mc\_downloads/](https://downloads.gtnewhorizons.com/Multi_mc_downloads/)
+
+成都服务器: [sky.rainif.com](https://sky.rainif.com)
+
+香港服务器: [lxc.rainif.com](https://lxc.rainif.com)
+
+端口：25565
+
+版本：1.7.10
